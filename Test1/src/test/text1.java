@@ -7,6 +7,10 @@ public class text1 {
 					System.out.println("4564");
 					System.out.println("fdafad");
 					System.out.println("fdsafa");
+system.out.println("ffdadsf")
+
+
+
 				}
 				
 }
