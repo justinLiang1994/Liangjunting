@@ -8,6 +8,8 @@ public class text1 {
 					System.out.println("fdafad");
 					System.out.println("fdsafa");
 					System.out.println("ffdadsf");
+					System.out.println("48545");
+					System.out.println("f454fd");
 
 
 
